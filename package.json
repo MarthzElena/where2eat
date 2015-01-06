@@ -9,9 +9,6 @@
   "engines": {
     "node": "0.11.x"
   },
-  "scripts": {
-    "start": "node app.js"
-  },
   "dependencies": {
       "express": "4.10.7"
     },
